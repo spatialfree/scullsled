@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: c3baed04ba1ee964880533825ceb2c82
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube
+    100004: mesh1122491003
+    100006: mesh1138334599
+    100008: mesh1876368859
+    100010: mesh2059432244
+    100012: mesh570569170
+    100014: Plane
+    100016: backFlap
+    100018: boxMesh
+    100020: frontFlap
+    100022: leftFlap
+    100024: leftGlove
+    100026: rightFlap
+    100028: rightGlove
+    100030: head
+    100032: torso
+    100034: bottomTape
+    100036: snowFlake
+    100038: Flora
+    400000: //RootNode
+    400002: Cube
+    400004: mesh1122491003
+    400006: mesh1138334599
+    400008: mesh1876368859
+    400010: mesh2059432244
+    400012: mesh570569170
+    400014: Plane
+    400016: backFlap
+    400018: boxMesh
+    400020: frontFlap
+    400022: leftFlap
+    400024: leftGlove
+    400026: rightFlap
+    400028: rightGlove
+    400030: head
+    400032: torso
+    400034: bottomTape
+    400036: snowFlake
+    400038: Flora
+    2300000: Cube
+    2300002: mesh1122491003
+    2300004: mesh1138334599
+    2300006: mesh1876368859
+    2300008: mesh2059432244
+    2300010: mesh570569170
+    2300012: Plane
+    2300014: backFlap
+    2300016: boxMesh
+    2300018: frontFlap
+    2300020: leftFlap
+    2300022: leftGlove
+    2300024: rightFlap
+    2300026: rightGlove
+    2300028: head
+    2300030: torso
+    2300032: bottomTape
+    2300034: snowFlake
+    2300036: Flora
+    3300000: Cube
+    3300002: mesh1122491003
+    3300004: mesh1138334599
+    3300006: mesh1876368859
+    3300008: mesh2059432244
+    3300010: mesh570569170
+    3300012: Plane
+    3300014: backFlap
+    3300016: boxMesh
+    3300018: frontFlap
+    3300020: leftFlap
+    3300022: leftGlove
+    3300024: rightFlap
+    3300026: rightGlove
+    3300028: head
+    3300030: torso
+    3300032: bottomTape
+    3300034: snowFlake
+    3300036: Flora
+    4300000: Plane
+    4300002: Cube
+    4300004: mesh1138334599
+    4300006: mesh1122491003
+    4300008: mesh2059432244
+    4300010: mesh1876368859
+    4300012: mesh570569170
+    4300014: rightGlove
+    4300016: backFlap
+    4300018: frontFlap
+    4300020: rightFlap
+    4300022: leftFlap
+    4300024: boxMesh
+    4300026: leftGlove
+    4300028: torso
+    4300030: head
+    4300032: bottomTape
+    4300034: snowFlake
+    4300036: Flora
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.8
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
